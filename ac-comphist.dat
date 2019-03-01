@@ -1,0 +1,38 @@
+((("helm" .
+   [1 0 0 0])
+  ("projectile-completion-system" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("helm-projectile-fuzzy-match" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("require" .
+   [0 0 0 0 1 0 0])
+  ("when" .
+   [1 0 0 0])
+  ("projectile" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("elscreen-start" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("setq" .
+   [6 0 0 0])
+  ("nil" .
+   [4 0 0])
+  ("lambda" .
+   [1 0 0 2 0 0])
+  ("format" .
+   [2 0 0 0 0 1])
+  ("dired-directory" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("file-name-directory" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("Info-current-file" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("buffer-name" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("current-buffer" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("compilation" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("telnet" .
+   [1 0 0 0 0 0])
+  ("cua-mode" .
+   [0 0 0 0 1 0 0 0])))
